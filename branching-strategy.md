@@ -20,10 +20,10 @@ We have chosen **gitFlow** branching standard for our project.
 
 At the core, the development model is greatly inspired by existing models out there. The central repo holds two main branches with an infinite lifetime:
 
-- **master**
+- **master:**
   We consider origin/master to be the main branch where the source code of HEAD always reflects a production-ready state.
 
-- **develop**
+- **develop:**
   We consider origin/develop to be the main branch where the source code of HEAD always reflects a state with the latest delivered development changes for the next release. Some would call this the **integration branch**. This is where any automatic nightly builds are built from.
 
 When the source code in the develop branch reaches a stable point and is ready to be released, all of the changes should be merged back into master somehow and then tagged with a release number.
