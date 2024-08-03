@@ -16,7 +16,7 @@ How do we want to organise work in branches and how should changes be released?
 
 We have chosen **gitFlow** branching standard for our project.
 
-## solution
+## Solution
 
 At the core, the development model is greatly inspired by existing models out there. The central repo holds two main branches with an infinite lifetime:
 

@@ -4,7 +4,7 @@
 
 As we develop our application, managing server state efficiently is crucial to providing a responsive user experience. We need a solution that simplifies data fetching, caching, and synchronization within our React components. After evaluating various options, we have decided to focus on a solution that best aligns with our needs for scalability, simplicity, and maintainability.
 
-## Options Considered
+## Considered Options
 
 ### 1. TanStack React Query
 

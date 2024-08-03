@@ -4,7 +4,7 @@
 
 We need to select a front-end JavaScript/TypeScript library for our application to develop a highly interactive and responsive user interface. The decision will impact our development workflow, maintainability, scalability, and overall user experience.
 
-## Options Considered
+## Considered Options
 
 ### 1. React
 

@@ -4,7 +4,7 @@
 
 As we embark on developing our application, selecting the right programming language for our codebase is critical. This decision will impact our development speed, maintainability, scalability, and overall code quality. Given our team's expertise and the nature of the project, we must decide whether to use JavaScript or TypeScript as our primary language.
 
-## Options Considered
+## Considered Options
 
 ### 1. JavaScript
 

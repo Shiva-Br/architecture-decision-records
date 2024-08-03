@@ -4,7 +4,7 @@
 
 As our project continues to grow and evolve within a monorepo architecture, we recognize the need for a unified approach to developing and maintaining UI components across different applications and services. A shared UI library will provide a consistent look and feel and promote reusability of common components, thereby enhancing our development efficiency and user experience.
 
-## Options Considered
+## Considered Options
 
 ### 1. Create a Shared UI Library
 

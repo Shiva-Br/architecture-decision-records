@@ -4,7 +4,7 @@
 
 As we establish our project's dependency management strategy, selecting the right package manager is essential for optimizing performance, managing dependencies efficiently, and streamlining developer workflows. Based on our team’s requirements and the unique features of each tool, we aim to choose the most suitable package manager that aligns with our goals.
 
-## Options Considered
+## Considered Options
 
 ### npm
 

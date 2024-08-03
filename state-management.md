@@ -4,7 +4,7 @@
 
 As our application continues to grow in complexity and requires efficient management of state across various components, we face the challenge of selecting an appropriate state management solution. We have evaluated several options, including traditional state management patterns, Redux, Context API, MobX, and other libraries. Our goal is to identify the most suitable solution that aligns with our development workflow, offers flexibility, and addresses our needs for modularity and performance.
 
-## Options Considered
+## Considered Options
 
 ### 1. LegendApp State
 

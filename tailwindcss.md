@@ -4,7 +4,7 @@
 
 As our application grows, the need for a scalable, maintainable, and efficient styling solution is paramount. We have considered various options for managing our styles, including traditional CSS, CSS-in-JS libraries, CSS pre-processors like SASS or LESS, and CSS frameworks such as Bootstrap and Material-UI. After evaluating these options, we aim to choose the approach that best aligns with our development workflow and overall project goals.
 
-## Options Considered
+## Considered Options
 
 ### TailwindCSS
 

@@ -4,7 +4,7 @@
 
 As our application grows, ensuring type safety in API interactions is crucial for preventing runtime errors and streamlining development workflows. We need a solution that allows us to generate type-safe functions or React hooks based on our API specifications from Swagger. Additionally, we want a reliable API fetcher to handle HTTP requests. After reviewing various options, we aim to select tools that optimally integrate with our stack and enhance our development process.
 
-## Options Considered
+## Considered Options
 
 ### 1. @furiosa/swag
 

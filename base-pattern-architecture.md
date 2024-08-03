@@ -4,7 +4,7 @@
 
 As we begin to structure our application and its associated libraries, we need to choose the best architectural pattern for managing our codebase. With various options available, including polyrepo (multiple repositories) and monorepo (single repository), it is essential to assess which approach will best serve our current needs and future scalability. Our decision will impact collaboration, dependency management, build processes, and overall project organization.
 
-## Options Considered
+## Considered Options
 
 ### 1. Monorepo
 

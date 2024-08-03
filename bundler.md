@@ -4,7 +4,7 @@
 
 As we develop our application, selecting the appropriate bundler is critical for optimizing our build process, enhancing development speed, and managing assets effectively. Given our decision to adopt a monorepo architecture for our project, this bundler selection will significantly influence our development workflow, build times, and overall productivity.
 
-## Options Considered
+## Considered Options
 
 ### 1. Vite
 
