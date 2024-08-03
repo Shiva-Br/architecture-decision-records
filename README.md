@@ -1,0 +1,1 @@
+# Smartech Architecture decision records
