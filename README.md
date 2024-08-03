@@ -1,1 +1,0 @@
-# architecture-decision-records
