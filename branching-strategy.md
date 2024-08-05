@@ -60,22 +60,16 @@ anything except master, develop, release-\*, or hotfix-\*
 
 #### Release branches
 
-May branch off from:
-**develop**
+May branch off from: **develop**
 
-Must merge back into:
-**develop**
+Must merge back into: **develop**
 
-Branch naming convention:
-release-\*
+Branch naming convention: release-\*
 
 #### Hotfix branches
 
-May branch off from:
-**master**
+May branch off from: **master**
 
-Must merge back into:
-**develop** and **master**
+Must merge back into: **develop** and **master**
 
-Branch naming convention:
-hotfix-\*
+Branch naming convention: hotfix-\*
