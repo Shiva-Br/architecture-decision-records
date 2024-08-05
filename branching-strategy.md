@@ -21,10 +21,12 @@ We have chosen **gitFlow** branching standard for our project.
 At the core, the development model is greatly inspired by existing models out there. The central repo holds two main branches with an infinite lifetime:
 
 - **master:**
-  We consider origin/master to be the main branch where the source code of HEAD always reflects a production-ready state.
+
+We consider origin/master to be the main branch where the source code of HEAD always reflects a production-ready state.
 
 - **develop:**
-  We consider origin/develop to be the main branch where the source code of HEAD always reflects a state with the latest delivered development changes for the next release. Some would call this the **integration branch**. This is where any automatic nightly builds are built from.
+
+We consider origin/develop to be the main branch where the source code of HEAD always reflects a state with the latest delivered development changes for the next release. Some would call this the **integration branch**. This is where any automatic nightly builds are built from.
 
 When the source code in the develop branch reaches a stable point and is ready to be released, all of the changes should be merged back into master somehow and then tagged with a release number.
 
@@ -35,7 +37,9 @@ Next to the main branches master and develop, our development model uses a varie
 The different types of branches we may use are:
 
 - **Feature branches**
+
 - **Release branches**
+
 - **Hotfix branches**
 
 Each of these branches have a specific purpose and are bound to strict rules as to which branches may be their originating branch and which branches must be their merge targets.
@@ -43,26 +47,41 @@ Each of these branches have a specific purpose and are bound to strict rules as 
 #### Feature branches
 
 May branch off from:
+
 **develop**
+
 Must merge back into:
+
 **develop**
+
 Branch naming convention:
+
 anything except master, develop, release-\*, or hotfix-\*
 
 #### Release branches
 
 May branch off from:
+
 **develop**
+
 Must merge back into:
+
 **develop**
+
 Branch naming convention:
+
 release-\*
 
 #### Hotfix branches
 
 May branch off from:
+
 **master**
+
 Must merge back into:
+
 **develop** and **master**
+
 Branch naming convention:
+
 hotfix-\*
