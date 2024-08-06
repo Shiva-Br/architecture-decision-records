@@ -156,3 +156,7 @@ We have chosen to use **Vite** as our bundler for the application.
 ## Conclusion
 
 In conclusion, we have decided to adopt **Vite** as our bundler due to its exceptional speed, simplicity, and native support for modern web standards. The ability to efficiently manage a monorepo architecture further solidifies this choice, aligning perfectly with our project's requirements for scalability and modularity. While more established options like Webpack offer extensive configurability and ecosystem maturity, the development efficiency gains and straightforward setup provided by Vite position our team to focus on building features and improving the application. We believe this decision will enhance our workflow, facilitate collaboration, and enable smoother development experiences as we progress through the project.
+
+## Links
+
+[vitejs](https://vitejs.dev/)

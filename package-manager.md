@@ -211,3 +211,7 @@ In summary, `pnpm` demonstrates superior performance in installing packages and 
 ## Conclusion
 
 In conclusion, we have decided to adopt **pnpm** as our package manager for the project. Its advantages in terms of performance, disk space optimization, and consistent dependency management align perfectly with our project's needs. Additionally, pnpm’s workspace feature complements our strategy of using a monorepo architecture. Despite potential challenges related to community size and migration, these are outweighed by the long-term benefits that pnpm offers. This decision positions our development team for greater efficiency and stability as we build and scale our application.
+
+## Links
+
+[pnpm](https://pnpm.io/)

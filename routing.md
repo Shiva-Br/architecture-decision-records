@@ -2,18 +2,18 @@
 
 ## Context
 
-Our team is developing a new web application that requires a robust and flexible routing solution. We are evaluating two options: React Router DOM and TanStack Router. Both libraries offer routing capabilities for React applications, but they differ in terms of features, flexibility, and performance.
+Our team is developing a new web application that requires a robust and flexible routing solution. We are evaluating two options: React Router and TanStack Router. Both libraries offer routing capabilities for React applications, but they differ in terms of features, flexibility, and performance.
 
 ## Considered Options
 
-1. **React Router DOM**
+1. **React Router**
 2. **TanStack Router**
 
-### React Router DOM
+### React Router
 
 - **Pros:**
 
-  - **Mature and Widely Used:** React Router DOM is a well-established library with a large user base.
+  - **Mature and Widely Used:** React Router is a well-established library with a large user base.
   - **Comprehensive Documentation:** The documentation is extensive and provides many examples.
   - **Integration:** Easy integration with other React libraries and tools.
 
@@ -32,9 +32,9 @@ Our team is developing a new web application that requires a robust and flexible
   - **Active Development:** Actively maintained and regularly updated with new features and improvements.
 
 - **Cons:**
-  - **Smaller Community:** Smaller community and ecosystem compared to React Router DOM.
+  - **Smaller Community:** Smaller community and ecosystem compared to React Router.
   - **Learning Curve:** Steeper learning curve due to its flexibility and different approach compared to traditional routers.
-  - **Documentation:** While improving, the documentation is not as comprehensive as React Router DOM.
+  - **Documentation:** While improving, the documentation is not as comprehensive as React Router.
 
 ## Decision
 
@@ -55,7 +55,7 @@ After careful evaluation, we have decided to use TanStack Router for our web app
 
 ### Ease of Use and Learning Curve
 
-React Router DOM has a gentler learning curve due to its widespread usage and comprehensive documentation. However, TanStack Router, while initially more challenging, offers greater long-term benefits in terms of flexibility and modern development practices.
+React Router has a gentler learning curve due to its widespread usage and comprehensive documentation. However, TanStack Router, while initially more challenging, offers greater long-term benefits in terms of flexibility and modern development practices.
 
 ### Performance
 
@@ -67,11 +67,11 @@ TanStack Router excels in flexibility, providing more options for customization 
 
 ### Community and Ecosystem
 
-React Router DOM has a larger community and ecosystem, but TanStack Router's active development and modern approach are promising. The smaller community is a trade-off we are willing to accept for the benefits offered.
+React Router has a larger community and ecosystem, but TanStack Router's active development and modern approach are promising. The smaller community is a trade-off we are willing to accept for the benefits offered.
 
 ### Documentation and Support
 
-React Router DOM's documentation is more extensive, but TanStack Router's documentation is improving rapidly. Given the active development and responsiveness of the maintainers, we are confident in receiving adequate support.
+React Router's documentation is more extensive, but TanStack Router's documentation is improving rapidly. Given the active development and responsiveness of the maintainers, we are confident in receiving adequate support.
 
 ## Consequences
 
@@ -95,3 +95,8 @@ React Router DOM's documentation is more extensive, but TanStack Router's docume
 ## Conclusion
 
 We have decided to adopt TanStack Router for our web application. Despite its smaller community and steeper learning curve, its superior performance, flexibility, and alignment with modern React development practices make it the best choice for our needs. We believe that investing time in learning and adopting TanStack Router will provide long-term benefits for our application.
+
+## Links
+
+[tanstack router](https://tanstack.com/router/latest)
+[react router](https://reactrouter.com/en/main)

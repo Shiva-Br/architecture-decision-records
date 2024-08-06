@@ -90,3 +90,7 @@ We have decided to use **TanStack React Query** as our primary solution for serv
 ## Conclusion
 
 In conclusion, we have chosen **TanStack React Query** for managing server state in our application. Its robust features, efficient data handling, and tight integration with React position our development team to build a highly responsive user interface while maintaining a high level of code quality and maintainability.
+
+## Links
+
+[tanstack query](https://tanstack.com/query/latest)

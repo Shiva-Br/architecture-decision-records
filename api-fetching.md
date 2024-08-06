@@ -54,3 +54,8 @@ We have decided to implement **@furiosa/swag** for generating type-safe APIs in 
 ## Conclusion
 
 In conclusion, we have chosen **@furiosa/swag** as our solution for generating type-safe APIs from Swagger specifications, using **Axios** for API fetching. This decision enhances our development workflow by providing clear, maintainable, and type-safe API interactions. By integrating @furiosa/swag and Axios into our stack, we are positioning our application for improved reliability and developer productivity as we scale.
+
+## Links
+
+[@furiosa/swag](https://github.com/alirezahematidev/furiosa)
+[axios](https://github.com/axios/axios)

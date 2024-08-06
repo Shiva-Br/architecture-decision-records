@@ -83,3 +83,7 @@ We have decided to use **LegendApp State** as our primary state management solut
 ## Conclusion
 
 In conclusion, we have chosen **LegendApp State** as our solution for state management within the application. Its decentralized architecture, reactivity, and community support position it as the best choice for our development needs. By adopting LegendApp State, we aim to build a scalable and maintainable application that facilitates team collaboration and supports efficient development practices.
+
+## Links
+
+[legendapp state](https://legendapp.com/open-source/state/v3/intro/introduction/)

@@ -47,3 +47,7 @@ We decided to adopt Semantic Versioning (Semver) for versioning the individual p
    - Example: `feat: add new authentication module` or `fix: resolve issue with API endpoint`.
 
 By implementing this versioning and release strategy, we aim to achieve a well-structured, maintainable, and efficient development cycle, accommodating both ongoing development and stable application releases. Special attention will be given to shared packages like UI components to prevent widespread disruption and ensure a consistent user experience across all projects.
+
+## Links
+
+[semver](https://semver.org/)

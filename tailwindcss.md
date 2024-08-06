@@ -201,3 +201,7 @@ We have decided to use **TailwindCSS** as our primary styling solution for the a
 ## Conclusion
 
 In conclusion, we have chosen **TailwindCSS** as our solution for styling the application. Its utility-first approach, customization capabilities, and strong community resources position it as the ideal choice for our development team. By leveraging TailwindCSS, we aim to enhance our development efficiency, maintain consistency across the application's UI, and ensure a seamless responsive design experience. This decision will help us build a scalable and maintainable styling framework as our project grows.
+
+## Links
+
+[tailwindcss](https://tailwindcss.com/)
