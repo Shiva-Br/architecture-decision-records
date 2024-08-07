@@ -38,7 +38,7 @@ Our team is developing a new web application that requires a robust and flexible
 
 ## Decision
 
-After careful evaluation, we have decided to use TanStack Router for our web application's routing needs.
+After careful evaluation, we have decided to use React Router for our web application's routing needs.
 
 | Package                | Downloads | Stars  | Size    | Issues | Publish    | License |
 | ---------------------- | --------- | ------ | ------- | ------ | ---------- | ------- |
