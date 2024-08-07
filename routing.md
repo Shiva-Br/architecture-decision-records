@@ -38,12 +38,7 @@ Our team is developing a new web application that requires a robust and flexible
 
 ## Decision
 
-After careful evaluation, we have decided to use React Router for our web application's routing needs.
-
-| Package                | Downloads | Stars  | Size    | Issues | Publish    | License |
-| ---------------------- | --------- | ------ | ------- | ------ | ---------- | ------- |
-| react-router-dom       | 9,731,649 | 52,608 | 895 kB  | 104    | 4 days ago | MIT     |
-| @tanstack/react-router | 134,299   | 7,533  | 1.42 MB | 69     | 2 days ago | MIT     |
+After careful evaluation, we have decided to use TanStack Router for our web application's routing needs.
 
 ## Criteria for Evaluation
 
